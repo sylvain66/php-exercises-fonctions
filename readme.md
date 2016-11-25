@@ -1,3 +1,35 @@
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo1.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo2.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo3.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo4.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo5.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo6.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo7.php
+
+https://rawgit.com/sylvain66/php-exercises-fonctions/master/fonctionexo8.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #PHP - Les fonctions
 ##Exercice 1
 Faire une fonction qui retourne **true**.
